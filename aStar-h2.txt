@@ -1,0 +1,237 @@
+   1  2  3  4  5  6  
+
+1  B  B  I  J        
+
+2        I  J  C  C  
+
+3        I  A  A  M  >> exit
+
+4  G  D  D  K     M  
+
+5  G  H     K  L     
+
+6  G  H  F  F  L     
+
+   1  2  3  4  5  6  
+
+1  B  B  I  J        
+
+2        I  J  C  C  
+
+3        I     A  A  >> exit
+
+4  G  D  D  K     M  
+
+5  G  H     K  L  M  
+
+6  G  H  F  F  L     
+
+Runtime: 0.004997968673706055 seconds
+Expanded 15 positions
+Puzzle #1: Solved in 2 moves
+1 M 1 down
+2 A 1 right
+cost of path: 2
+
+
+   1  2  3  4  5  6  
+
+1        I           
+
+2  B  B  I     K     
+
+3  G  H  A  A  K  L  >> exit
+
+4  G  H  D  D  K  L  
+
+5  G        J  E  E  
+
+6  F  F     J        
+
+   1  2  3  4  5  6  
+
+1        I  J     L  
+
+2  B  B  I  J     L  
+
+3  G           A  A  >> exit
+
+4  G  H  D  D  K     
+
+5  G  H  E  E  K     
+
+6  F  F        K     
+
+Runtime: 1.4539062976837158 seconds
+Expanded 3760 positions
+Puzzle #2: Solved in 10 moves
+1 L 2 up
+2 K 1 up
+3 H 1 down
+4 A 1 left
+5 D 2 right
+6 J 4 up
+7 E 2 left
+8 D 2 left
+9 K 3 down
+10 A 3 right
+cost of path: 10
+
+
+   1  2  3  4  5  6  
+
+1  J  B  B  C  C  C  
+
+2  J  D  D        M  
+
+3  J  A  A  L     M  >> exit
+
+4  F  F  K  L     N  
+
+5        K  G  G  N  
+
+6     H  H           
+
+   1  2  3  4  5  6  
+
+1  B  B  C  C  C  M  
+
+2  D  D  K        M  
+
+3        K     A  A  >> exit
+
+4  J        L  F  F  
+
+5  J  G  G  L     N  
+
+6  J        H  H  N  
+
+Runtime: 20.384066343307495 seconds
+Expanded 41307 positions
+Puzzle #3: Solved in 17 moves
+1 N 1 down
+2 L 1 up
+3 H 2 right
+4 K 1 down
+5 F 4 right
+6 J 3 down
+7 A 1 left
+8 B 1 left
+9 D 1 left
+10 K 4 up
+11 G 2 left
+12 L 2 down
+13 A 3 right
+14 K 1 down
+15 C 1 left
+16 M 1 up
+17 A 1 right
+cost of path: 17
+
+
+   1  2  3  4  5  6  
+
+1  B  B  B        M  
+
+2  C  C  D  D     M  
+
+3  A  A  K  L     M  >> exit
+
+4  J     K  L  E  E  
+
+5  J     G  G        
+
+6  J  H  H  H  I  I  
+
+Runtime: 0.5973687171936035seconds
+Expanded 1371 positions
+Exhausted Fringe
+Puzzle #4: No Solution Found 
+
+
+   1  2  3  4  5  6  
+
+1  I  J  B  B  C  C  
+
+2  I  J  D  D  L     
+
+3  I  J  A  A  L     >> exit
+
+4  E  E  K     L     
+
+5        K  F  F     
+
+6     G  G  H  H     
+
+Runtime: 0.8077371120452881seconds
+Expanded 2032 positions
+Exhausted Fringe
+Puzzle #5: No Solution Found 
+
+
+   1  2  3  4  5  6  
+
+1  B  B     G     H  
+
+2  E        G     H  
+
+3  E  A  A  G     I  >> exit
+
+4        F  C  C  I  
+
+5  D  D  F        I  
+
+6        F           
+
+   1  2  3  4  5  6  
+
+1  E        B  B  H  
+
+2  E              H  
+
+3              A  A  >> exit
+
+4  C  C  F  G     I  
+
+5  D  D  F  G     I  
+
+6        F  G     I  
+
+Runtime: 0.6477887630462646 seconds
+Expanded 2101 positions
+Puzzle #6: Solved in 32 moves
+1 B 1 right
+2 I 1 down
+3 H 1 down
+4 E 1 up
+5 A 1 left
+6 F 2 up
+7 D 3 right
+8 F 2 down
+9 A 1 right
+10 E 4 down
+11 B 1 left
+12 A 1 left
+13 F 3 up
+14 C 3 left
+15 G 1 down
+16 F 1 down
+17 B 4 right
+18 G 1 up
+19 F 1 up
+20 C 3 right
+21 F 3 down
+22 A 1 right
+23 E 4 up
+24 A 1 left
+25 F 3 up
+26 D 3 left
+27 C 3 left
+28 G 3 down
+29 B 1 left
+30 H 1 up
+31 F 3 down
+32 A 4 right
+cost of path: 32
+
+

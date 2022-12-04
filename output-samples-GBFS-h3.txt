@@ -1,0 +1,50 @@
+Runtime: 0.002997875213623047 seconds	Expanded 18 positions	Puzzle #1: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.6567857265472412 seconds	Expanded 2566 positions	Puzzle #2: 	GBFS - h3	Solved in 8 moves	cost of path: 8
+Runtime: 2.6311397552490234 seconds	Expanded 8751 positions	Puzzle #3: 	GBFS - h3	Solved in 9 moves	cost of path: 9
+Runtime: 0.11996150016784668 seconds	Expanded 430 positions	Exhausted Fringe	Puzzle #4: 	GBFS - h3	No Solution Found
+Runtime: 2.391218662261963 seconds	Expanded 5733 positions	Exhausted Fringe	Puzzle #5: 	GBFS - h3	No Solution Found
+Runtime: 0.09796762466430664 seconds	Expanded 501 positions	Puzzle #6: 	GBFS - h3	Solved in 8 moves	cost of path: 8
+Runtime: 0.002998828887939453 seconds	Expanded 37 positions	Exhausted Fringe	Puzzle #7: 	GBFS - h3	No Solution Found
+Runtime: 0.006995439529418945 seconds	Expanded 62 positions	Puzzle #8: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.14095401763916016 seconds	Expanded 874 positions	Puzzle #9: 	GBFS - h3	Solved in 4 moves	cost of path: 4
+Runtime: 0.004971981048583984 seconds	Expanded 55 positions	Puzzle #10: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.01399540901184082 seconds	Expanded 116 positions	Puzzle #11: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.004998445510864258 seconds	Expanded 60 positions	Puzzle #12: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.0009996891021728516 seconds	Expanded 4 positions	Exhausted Fringe	Puzzle #13: 	GBFS - h3	No Solution Found
+Runtime: 0.0 seconds	Expanded 3 positions	Exhausted Fringe	Puzzle #14: 	GBFS - h3	No Solution Found
+Runtime: 0.29090380668640137 seconds	Expanded 1724 positions	Puzzle #15: 	GBFS - h3	Solved in 4 moves	cost of path: 4
+Runtime: 0.08897042274475098 seconds	Expanded 504 positions	Puzzle #16: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.017995357513427734 seconds	Expanded 139 positions	Puzzle #17: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.7057693004608154 seconds	Expanded 2669 positions	Exhausted Fringe	Puzzle #18: 	GBFS - h3	No Solution Found
+Runtime: 0.3059048652648926 seconds	Expanded 1311 positions	Exhausted Fringe	Puzzle #19: 	GBFS - h3	No Solution Found
+Runtime: 0.10932803153991699 seconds	Expanded 650 positions	Puzzle #20: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.0019996166229248047 seconds	Expanded 15 positions	Puzzle #21: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.12195944786071777 seconds	Expanded 608 positions	Puzzle #22: 	GBFS - h3	Solved in 4 moves	cost of path: 4
+Runtime: 0.0779726505279541 seconds	Expanded 422 positions	Puzzle #23: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.808743953704834 seconds	Expanded 2006 positions	Exhausted Fringe	Puzzle #24: 	GBFS - h3	No Solution Found
+Runtime: 1.5503642559051514 seconds	Expanded 4195 positions	Exhausted Fringe	Puzzle #25: 	GBFS - h3	No Solution Found
+Runtime: 2.512756109237671 seconds	Expanded 7009 positions	Puzzle #26: 	GBFS - h3	Solved in 34 moves	cost of path: 34
+Runtime: 0.41286373138427734 seconds	Expanded 1679 positions	Exhausted Fringe	Puzzle #27: 	GBFS - h3	No Solution Found
+Runtime: 0.15794897079467773 seconds	Expanded 839 positions	Puzzle #28: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.3338963985443115 seconds	Expanded 1862 positions	Puzzle #29: 	GBFS - h3	Solved in 4 moves	cost of path: 4
+Runtime: 0.07803869247436523 seconds	Expanded 505 positions	Puzzle #30: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.008996725082397461 seconds	Expanded 71 positions	Puzzle #31: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.006998538970947266 seconds	Expanded 67 positions	Puzzle #32: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.022990942001342773 seconds	Expanded 99 positions	Exhausted Fringe	Puzzle #33: 	GBFS - h3	No Solution Found
+Runtime: 0.06298351287841797 seconds	Expanded 342 positions	Exhausted Fringe	Puzzle #34: 	GBFS - h3	No Solution Found
+Runtime: 5.682113885879517 seconds	Expanded 18516 positions	Puzzle #35: 	GBFS - h3	Solved in 5 moves	cost of path: 5
+Runtime: 0.08201241493225098 seconds	Expanded 424 positions	Puzzle #36: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.01699376106262207 seconds	Expanded 138 positions	Puzzle #37: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.9220223426818848 seconds	Expanded 3143 positions	Exhausted Fringe	Puzzle #38: 	GBFS - h3	No Solution Found
+Runtime: 0.07397603988647461 seconds	Expanded 287 positions	Exhausted Fringe	Puzzle #39: 	GBFS - h3	No Solution Found
+Runtime: 0.07197952270507812 seconds	Expanded 425 positions	Puzzle #40: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.0029990673065185547 seconds	Expanded 21 positions	Puzzle #41: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.0679786205291748 seconds	Expanded 389 positions	Puzzle #42: 	GBFS - h3	Solved in 4 moves	cost of path: 4
+Runtime: 0.003998517990112305 seconds	Expanded 33 positions	Puzzle #43: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 3.2550268173217773 seconds	Expanded 7403 positions	Exhausted Fringe	Puzzle #44: 	GBFS - h3	No Solution Found
+Runtime: 0.004997730255126953 seconds	Expanded 17 positions	Exhausted Fringe	Puzzle #45: 	GBFS - h3	No Solution Found
+Runtime: 0.0019979476928710938 seconds	Expanded 16 positions	Puzzle #46: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.010997295379638672 seconds	Expanded 106 positions	Puzzle #47: 	GBFS - h3	Solved in 3 moves	cost of path: 3
+Runtime: 0.0019974708557128906 seconds	Expanded 31 positions	Puzzle #48: 	GBFS - h3	Solved in 2 moves	cost of path: 2
+Runtime: 0.0269925594329834 seconds	Expanded 190 positions	Puzzle #49: 	GBFS - h3	Solved in 4 moves	cost of path: 4
+Runtime: 0.06298208236694336 seconds	Expanded 375 positions	Exhausted Fringe	Puzzle #50: 	GBFS - h3	No Solution Found

@@ -1,0 +1,50 @@
+Runtime: 0.004000425338745117 seconds	Expanded 20 positions	Puzzle #1: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.8047373294830322 seconds	Expanded 2562 positions	Puzzle #2: 	UCS	Solved in 8 moves	cost of path: 8
+Runtime: 3.826251983642578 seconds	Expanded 10111 positions	Puzzle #3: 	UCS	Solved in 9 moves	cost of path: 9
+Runtime: 0.1279585361480713seconds	Expanded 430 positions	Exhausted Fringe	Puzzle #4: 	UCS	No Solution Found
+Runtime: 2.5331714153289795seconds	Expanded 5733 positions	Exhausted Fringe	Puzzle #5: 	UCS	No Solution Found
+Runtime: 0.11496233940124512 seconds	Expanded 501 positions	Puzzle #6: 	UCS	Solved in 8 moves	cost of path: 8
+Runtime: 0.0039980411529541016seconds	Expanded 37 positions	Exhausted Fringe	Puzzle #7: 	UCS	No Solution Found
+Runtime: 0.026991844177246094 seconds	Expanded 140 positions	Puzzle #8: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.13295483589172363 seconds	Expanded 671 positions	Puzzle #9: 	UCS	Solved in 4 moves	cost of path: 4
+Runtime: 0.015993118286132812 seconds	Expanded 100 positions	Puzzle #10: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.01899433135986328 seconds	Expanded 99 positions	Puzzle #11: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.006998538970947266 seconds	Expanded 46 positions	Puzzle #12: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.0seconds	Expanded 4 positions	Exhausted Fringe	Puzzle #13: 	UCS	No Solution Found
+Runtime: 0.0seconds	Expanded 3 positions	Exhausted Fringe	Puzzle #14: 	UCS	No Solution Found
+Runtime: 0.14895057678222656 seconds	Expanded 653 positions	Puzzle #15: 	UCS	Solved in 4 moves	cost of path: 4
+Runtime: 0.04798316955566406 seconds	Expanded 200 positions	Puzzle #16: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.0289914608001709 seconds	Expanded 143 positions	Puzzle #17: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.7877435684204102seconds	Expanded 2669 positions	Exhausted Fringe	Puzzle #18: 	UCS	No Solution Found
+Runtime: 0.35488271713256836seconds	Expanded 1311 positions	Exhausted Fringe	Puzzle #19: 	UCS	No Solution Found
+Runtime: 0.08797216415405273 seconds	Expanded 388 positions	Puzzle #20: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.004998445510864258 seconds	Expanded 28 positions	Puzzle #21: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.2639148235321045 seconds	Expanded 927 positions	Puzzle #22: 	UCS	Solved in 4 moves	cost of path: 4
+Runtime: 0.1459507942199707 seconds	Expanded 481 positions	Puzzle #23: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.8897097110748291seconds	Expanded 2006 positions	Exhausted Fringe	Puzzle #24: 	UCS	No Solution Found
+Runtime: 1.7344343662261963seconds	Expanded 4195 positions	Exhausted Fringe	Puzzle #25: 	UCS	No Solution Found
+Runtime: 2.8060829639434814 seconds	Expanded 6960 positions	Puzzle #26: 	UCS	Solved in 34 moves	cost of path: 34
+Runtime: 0.4808516502380371seconds	Expanded 1679 positions	Exhausted Fringe	Puzzle #27: 	UCS	No Solution Found
+Runtime: 0.063018798828125 seconds	Expanded 252 positions	Puzzle #28: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.5598323345184326 seconds	Expanded 2036 positions	Puzzle #29: 	UCS	Solved in 4 moves	cost of path: 4
+Runtime: 0.14495253562927246 seconds	Expanded 522 positions	Puzzle #30: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.010996341705322266 seconds	Expanded 61 positions	Puzzle #31: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.017995119094848633 seconds	Expanded 96 positions	Puzzle #32: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.020992755889892578seconds	Expanded 99 positions	Exhausted Fringe	Puzzle #33: 	UCS	No Solution Found
+Runtime: 0.06698107719421387seconds	Expanded 342 positions	Exhausted Fringe	Puzzle #34: 	UCS	No Solution Found
+Runtime: 4.2709128856658936 seconds	Expanded 11373 positions	Puzzle #35: 	UCS	Solved in 5 moves	cost of path: 5
+Runtime: 0.09796833992004395 seconds	Expanded 410 positions	Puzzle #36: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.012994527816772461 seconds	Expanded 63 positions	Puzzle #37: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 1.038670301437378seconds	Expanded 3143 positions	Exhausted Fringe	Puzzle #38: 	UCS	No Solution Found
+Runtime: 0.07897329330444336seconds	Expanded 287 positions	Exhausted Fringe	Puzzle #39: 	UCS	No Solution Found
+Runtime: 0.10996413230895996 seconds	Expanded 422 positions	Puzzle #40: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.004998683929443359 seconds	Expanded 21 positions	Puzzle #41: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.1159672737121582 seconds	Expanded 479 positions	Puzzle #42: 	UCS	Solved in 4 moves	cost of path: 4
+Runtime: 0.0049991607666015625 seconds	Expanded 33 positions	Puzzle #43: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 3.4358813762664795seconds	Expanded 7403 positions	Exhausted Fringe	Puzzle #44: 	UCS	No Solution Found
+Runtime: 0.0029969215393066406seconds	Expanded 17 positions	Exhausted Fringe	Puzzle #45: 	UCS	No Solution Found
+Runtime: 0.006998538970947266 seconds	Expanded 54 positions	Puzzle #46: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.029990673065185547 seconds	Expanded 163 positions	Puzzle #47: 	UCS	Solved in 3 moves	cost of path: 3
+Runtime: 0.003999948501586914 seconds	Expanded 31 positions	Puzzle #48: 	UCS	Solved in 2 moves	cost of path: 2
+Runtime: 0.027991294860839844 seconds	Expanded 193 positions	Puzzle #49: 	UCS	Solved in 4 moves	cost of path: 4
+Runtime: 0.07697486877441406seconds	Expanded 375 positions	Exhausted Fringe	Puzzle #50: 	UCS	No Solution Found

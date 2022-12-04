@@ -1,0 +1,212 @@
+
+# Demo 2
+#
+
+# demo 2.1
+
+..IJ....IJCC..IAAMGDDK.MGH.KL.GHFFL. 
+
+# demo 2.2
+
+..I...BBI.K.GHAAKLGHDDKLG..JEE...J.. 
+
+# demo 2.3
+
+JBBCCCJDD..MJAAL.MFFKL.N..K..N.HH... 
+
+# demo 2.4
+
+.....MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII J0 
+
+# demo 2.5
+
+IJ..CCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6
+
+# demo 2.6
+
+...G.HE..G.HEAAG.I..FCCIDDF..I..F... 
+
+# demo 2.7
+
+...........D.AACCD.....D............ C2 D2
+
+# demo 2.8
+
+CCC...GG...HAA...HDDD..H.......FFF..
+
+# demo 2.9
+
+......FF..H...AAHC....HC......JJ..DD  D3 H4
+
+# demo 2.10
+
+....HHBBB.C.AA..C.....C..........DD. D1 H0
+
+# demo 2.11
+
+III.......CCDD.AAB..H..B..H..BFFF...
+
+# demo 2.12
+
+JJ.....III.CAA...C.BBB.......D.....D C3 J0
+
+# demo 2.13
+
+.....D.....DAA...D.....C.....C.....C
+
+# demo 2.14
+
+.............AA.CC.................. C0
+
+# demo 2.15
+
+.....BJJ..HBI.AAHBI.DDD.....CC......
+
+# demo 2.16
+
+.FFF.CEE...C..AA.D.....D...BBBII..JJ
+
+# demo 2.17
+
+..FFF..III...AA..D.....DCC.....BB...
+
+
+# demo 2.18
+
+.CCC......F.AA.DF....DF.EEEDG..HH.G.
+
+# demo 2.19
+
+...BB...D...AADCCC..D.J.....J..HH...
+
+# demo 2.20
+
+...C..E..C..E.AADJE...DJ.BBB..FF..II
+
+# demo 2.21
+
+..IJ....IJ....IAAMGDDK.MGH.KL.GHFFL. 
+
+
+# demo 2.22 
+
+..I...BBI.K.GHAAKLGHDDKLG...EE.CCC.. 
+
+
+# demo 2.23
+
+JBB...JDD..MJAAL.MFFKL.N..K..N.HH... 
+
+# demo 2.24
+
+BB...MCCDD.MAAKL.MJ.KLEEJ.GG..JHHHII B1 J0
+
+# demo 2.25
+
+IJ..CCIJ..L.IJAAL.EEK.L...KFF..GG... F0 G6
+
+# demo 2.26
+
+JJ.G.HE..G.HEAAG.I..FCCIDDF..I..F.BB 
+
+# demo 2.27
+
+FF..II.....D.AACCD.....D...JJJ...... C2 D2
+
+# demo 2.28
+
+CCC...GG.I.HAA.I.HDDD..H.EE....FFF..
+
+# demo 2.29
+
+BBB...FF..H...AAHC....HC......JJ..DD  D3 H4
+
+# demo 2.30
+
+FF..HHBBB.C.AA..C....IC.JJ.I.....DD. D1 H0
+
+# demo 2.31
+
+IIIEEE....CCDD.AAB..H..B..H..BFFF...
+
+# demo 2.32
+
+JJ.....III.CAA...C.BBB.......D..EE.D C3 J0
+
+# demo 2.33
+
+BBB..D.....DAA...D.....C.....C..HH.C
+
+# demo 2.34
+
+DDD..........AAICC...IJ.....J.....J. C1
+
+# demo 2.35
+
+EEE..BJJ..HBI.AAHBI.DDD.....CC....FF
+
+# demo 2.36
+
+.FFF.CEE...C..AA.D.....D....BBIII.JJ
+
+# demo 2.37
+
+..FFF..III...AA..D.....DCC.....BB.EE
+
+
+# demo 2.38
+
+....BB....F.AA.DF....DF.EEEDG..HH.G.
+
+# demo 2.39
+
+IIIBB...D...AADCCC..D.J.EEE.J..HH...
+
+# demo 2.40
+
+GG.C..E..C..E.AADJE...DJ.BBB..FF..II
+
+# demo 2.41
+
+BBIJ....IJ....IAAMGDDK.MGH.KL.GHFFL. 
+
+
+# demo 2.42 
+
+..I...BBI.K.GHAAKLGHDDKLG...EE...... 
+
+
+# demo 2.43
+
+JBB...J....MJAA..MFFK..N..K..N.HH... 
+
+# demo 2.44
+
+BBB..MCCDD.MAAKL.MJ.KL..J.GG..JHHHII B1 J0
+
+# demo 2.45
+
+IJ....IJ..L.IJAAL.EEK.L...KFF..GGGHH F0 G6
+
+# demo 2.46
+
+.....C.....C.AA..B.....BH.....H..JJJ
+
+# demo 2.47
+
+CCCHHH......AA...I.....I.BB..I...DDD I1
+
+# demo 2.48
+
+....EE....D...AAD.....DF.....FBB...F
+
+# demo 2.49
+
+.........DDD.AACHI...CHI...CHI......
+
+# demo 2.50
+
+..B.....B..HAACCCHI....HI.....I..JJ.
+
+
+

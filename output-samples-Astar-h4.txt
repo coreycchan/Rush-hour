@@ -1,0 +1,50 @@
+Runtime: 0.0029990673065185547 seconds	Expanded 18 positions	Puzzle #1: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.8546934127807617 seconds	Expanded 2566 positions	Puzzle #2: 	A/A* - h4	Solved in 8 moves	cost of path: 8
+Runtime: 3.2479374408721924 seconds	Expanded 8751 positions	Puzzle #3: 	A/A* - h4	Solved in 9 moves	cost of path: 9
+Runtime: 0.14095330238342285seconds	Expanded 430 positions	Exhausted Fringe	Puzzle #4: 	A/A* - h4	No Solution Found
+Runtime: 2.651132583618164seconds	Expanded 5733 positions	Exhausted Fringe	Puzzle #5: 	A/A* - h4	No Solution Found
+Runtime: 0.13350224494934082 seconds	Expanded 501 positions	Puzzle #6: 	A/A* - h4	Solved in 8 moves	cost of path: 8
+Runtime: 0.003999948501586914seconds	Expanded 37 positions	Exhausted Fringe	Puzzle #7: 	A/A* - h4	No Solution Found
+Runtime: 0.011996746063232422 seconds	Expanded 62 positions	Puzzle #8: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.19293785095214844 seconds	Expanded 874 positions	Puzzle #9: 	A/A* - h4	Solved in 4 moves	cost of path: 4
+Runtime: 0.007996559143066406 seconds	Expanded 55 positions	Puzzle #10: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.02299189567565918 seconds	Expanded 116 positions	Puzzle #11: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.008997440338134766 seconds	Expanded 60 positions	Puzzle #12: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.0009999275207519531seconds	Expanded 4 positions	Exhausted Fringe	Puzzle #13: 	A/A* - h4	No Solution Found
+Runtime: 0.0seconds	Expanded 3 positions	Exhausted Fringe	Puzzle #14: 	A/A* - h4	No Solution Found
+Runtime: 0.4258608818054199 seconds	Expanded 1724 positions	Puzzle #15: 	A/A* - h4	Solved in 4 moves	cost of path: 4
+Runtime: 0.13095808029174805 seconds	Expanded 504 positions	Puzzle #16: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.026990175247192383 seconds	Expanded 139 positions	Puzzle #17: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.8097352981567383seconds	Expanded 2669 positions	Exhausted Fringe	Puzzle #18: 	A/A* - h4	No Solution Found
+Runtime: 0.3828749656677246seconds	Expanded 1311 positions	Exhausted Fringe	Puzzle #19: 	A/A* - h4	No Solution Found
+Runtime: 0.19593501091003418 seconds	Expanded 650 positions	Puzzle #20: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.0029976367950439453 seconds	Expanded 15 positions	Puzzle #21: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.166945219039917 seconds	Expanded 608 positions	Puzzle #22: 	A/A* - h4	Solved in 4 moves	cost of path: 4
+Runtime: 0.11099791526794434 seconds	Expanded 422 positions	Puzzle #23: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.901705265045166seconds	Expanded 2006 positions	Exhausted Fringe	Puzzle #24: 	A/A* - h4	No Solution Found
+Runtime: 1.773435115814209seconds	Expanded 4195 positions	Exhausted Fringe	Puzzle #25: 	A/A* - h4	No Solution Found
+Runtime: 3.0567572116851807 seconds	Expanded 7009 positions	Puzzle #26: 	A/A* - h4	Solved in 34 moves	cost of path: 34
+Runtime: 0.5228278636932373seconds	Expanded 1679 positions	Exhausted Fringe	Puzzle #27: 	A/A* - h4	No Solution Found
+Runtime: 0.25892186164855957 seconds	Expanded 839 positions	Puzzle #28: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.5121481418609619 seconds	Expanded 1862 positions	Puzzle #29: 	A/A* - h4	Solved in 4 moves	cost of path: 4
+Runtime: 0.12895822525024414 seconds	Expanded 505 positions	Puzzle #30: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.013994932174682617 seconds	Expanded 71 positions	Puzzle #31: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.011996984481811523 seconds	Expanded 67 positions	Puzzle #32: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.020991802215576172seconds	Expanded 99 positions	Exhausted Fringe	Puzzle #33: 	A/A* - h4	No Solution Found
+Runtime: 0.07548904418945312seconds	Expanded 342 positions	Exhausted Fringe	Puzzle #34: 	A/A* - h4	No Solution Found
+Runtime: 8.096308708190918 seconds	Expanded 18516 positions	Puzzle #35: 	A/A* - h4	Solved in 5 moves	cost of path: 5
+Runtime: 0.11396217346191406 seconds	Expanded 424 positions	Puzzle #36: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.03098917007446289 seconds	Expanded 138 positions	Puzzle #37: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 1.0946424007415771seconds	Expanded 3143 positions	Exhausted Fringe	Puzzle #38: 	A/A* - h4	No Solution Found
+Runtime: 0.09496808052062988seconds	Expanded 287 positions	Exhausted Fringe	Puzzle #39: 	A/A* - h4	No Solution Found
+Runtime: 0.12096142768859863 seconds	Expanded 425 positions	Puzzle #40: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.003998756408691406 seconds	Expanded 21 positions	Puzzle #41: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.09197020530700684 seconds	Expanded 389 positions	Puzzle #42: 	A/A* - h4	Solved in 4 moves	cost of path: 4
+Runtime: 0.005997896194458008 seconds	Expanded 33 positions	Puzzle #43: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 3.5628392696380615seconds	Expanded 7403 positions	Exhausted Fringe	Puzzle #44: 	A/A* - h4	No Solution Found
+Runtime: 0.003022909164428711seconds	Expanded 17 positions	Exhausted Fringe	Puzzle #45: 	A/A* - h4	No Solution Found
+Runtime: 0.0019998550415039062 seconds	Expanded 16 positions	Puzzle #46: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.018994808197021484 seconds	Expanded 106 positions	Puzzle #47: 	A/A* - h4	Solved in 3 moves	cost of path: 3
+Runtime: 0.004998445510864258 seconds	Expanded 31 positions	Puzzle #48: 	A/A* - h4	Solved in 2 moves	cost of path: 2
+Runtime: 0.026991844177246094 seconds	Expanded 190 positions	Puzzle #49: 	A/A* - h4	Solved in 4 moves	cost of path: 4
+Runtime: 0.07997298240661621seconds	Expanded 375 positions	Exhausted Fringe	Puzzle #50: 	A/A* - h4	No Solution Found
