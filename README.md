@@ -1,6 +1,6 @@
 # Rush-hour
 
-READ ME: 
+READ ME: https://github.com/coreycchan/Rush-hour.git
 
 To run the code on different search algorithms
 You just need to uncomment whichever one you wish to use and then comment the other in the main
